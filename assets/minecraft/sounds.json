@@ -1,0 +1,17 @@
+{
+  "nuke": {
+    "sounds": [
+      { "name": "custom/nuke", "stream": false }
+    ]
+  },
+  "traitor": {
+    "sounds": [
+      { "name": "custom/traitor", "stream": false }
+    ]
+  },
+  "pipe": {
+    "sounds": [
+      { "name": "custom/pipe", "stream": false }
+    ]
+  }
+}
